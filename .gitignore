@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.so
+*.egg-info
+*.zip
+
+# IDE settings
+.idea/
+.vscode/
+
+# Data and models
+data/minima_weights/
+data/stereo_weights/
+working_data/
+sam2-main/
+backup/
+tmp/
+demo.log
+
+# Calibration generated data
+calibration/.idea/
+calibration/img/
+calibration/point_robot/
+calibration/pose/result/
+calibration/result/
+
+# Test data
+tests/working_data/
+tests/unimatch/
+
+# Other
+=0.17
