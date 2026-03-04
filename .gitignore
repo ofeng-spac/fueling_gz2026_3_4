@@ -13,9 +13,9 @@ __pycache__/
 data/minima_weights/
 data/stereo_weights/
 working_data/
-sam2-main/
+sam2-main/checkpoints/
+*.pt
 backup/
-tmp/
 demo.log
 
 # Calibration generated data
